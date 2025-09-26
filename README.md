@@ -1,2 +1,2 @@
 # Tugasweb-pribadi
-Web
+Web.html
